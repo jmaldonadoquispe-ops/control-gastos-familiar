@@ -1,0 +1,7 @@
+{
+  "name": "FamiliFinance - Control De Gastos Familiar",
+  "description": "Una aplicación móvil de control financiero familiar para gestionar ingresos, gastos compartidos, presupuestos y metas de ahorro con análisis detallados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
